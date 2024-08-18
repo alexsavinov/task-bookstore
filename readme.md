@@ -20,7 +20,7 @@ The Bookstore Application is a simple Spring Boot application that provides a RE
 1. **Clone the repository:**
 
     ```sh
-    git clone https://github.com/your-username/bookstore.git
+    git clone https://github.com/alexsavinov/task-bookstore.git
     cd bookstore
     ```
 
